@@ -1,15 +1,7 @@
-# This is just a sample repository
+view tableau visualizations under
 
-It's nothing important, really
+https://public.tableau.com/authoring/DS004_FinalProject_Tableau_Visualization/correlation#1
 
-## This is an example of Header 2
 
-### This is an example of Header 3
-
-- Item 1 of list
-- Item 2 of list
-
-```sql
-SELECT * FROM table;
 
 ```
